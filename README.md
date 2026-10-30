@@ -26,6 +26,9 @@ Audio Input → FM Modulator → AWGN Channel → FM Demodulator → Low-Pass Fi
 - Validation with two voice recordings
 
 ## Experimental Results
+### FM Receiver Performance
+
+![Comparison of FM receiver filters](filter_comparasion.png)
 
 Filter Optimization
 
